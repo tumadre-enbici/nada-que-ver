@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.nada-que-ver" name="Nada que ver Repo" version="1.0.0" provider-name="tumadre-enbici">
+<addon id="repository.nada-que-ver" name="Nada que ver Repo" version="1.0.0" provider-name="tu madre">
     <extension point="xbmc.addon.repository" name="Nada que ver Repo">
         <dir>
             <info compressed="false">https://tumadre-enbici.github.io/nada-que-ver/addons.xml</info>
