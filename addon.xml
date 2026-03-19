@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nada-que-ver" name="Nada que ver" version="1.5.4" provider-name="tumadre-enbici">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Canales y Agenda de fútbol vía Acestream</summary>
+        <description>
+            Reproduce canales Acestream y consulta la agenda de partidos directamente en Kodi.
+            Requiere Ace Stream Engine instalado en tu dispositivo (PC/Linux) o la app Acestream para Android.
+            Este addon solo muestra y organiza enlaces disponibles públicamente en internet.
+            No aloja, distribuye ni es responsable del contenido enlazado.
+            El uso del addon es responsabilidad del usuario.
+        </description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>

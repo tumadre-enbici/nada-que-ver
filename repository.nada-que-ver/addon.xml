@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.nada-que-ver" name="Nada que ver Repo" version="1.0.0" provider-name="tumadre-enbici">
+    <extension point="xbmc.addon.repository" name="Nada que ver Repo">
+        <dir>
+            <info compressed="false">https://tumadre-enbici.github.io/nada-que-ver/addons.xml</info>
+            <checksum>https://tumadre-enbici.github.io/nada-que-ver/addons.xml.md5</checksum>
+            <datadir zip="true">https://tumadre-enbici.github.io/nada-que-ver/repo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio oficial de Nada que ver</summary>
+        <description>
+            Repositorio oficial del addon Nada que ver creado y mantenido por tumadre-enbici.
+            Canales y Agenda de fútbol vía Acestream.
+        </description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
