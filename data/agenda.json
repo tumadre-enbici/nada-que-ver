@@ -10,13 +10,13 @@
       "titulo": "ACB EVENTO 01 **",
       "fecha": "",
       "hora": "",
-      "acestream_id": "53962d7fb865aff73b34a3afb2905cd492f60d75"
+      "acestream_id": "0995b9b77ac6198dd92141369707fb99da09bdb2"
     },
     {
       "titulo": "ACB EVENTO 01 **",
       "fecha": "",
       "hora": "",
-      "acestream_id": "0995b9b77ac6198dd92141369707fb99da09bdb2"
+      "acestream_id": "53962d7fb865aff73b34a3afb2905cd492f60d75"
     },
     {
       "titulo": "ACB EVENTO 02 720p *",
@@ -29,12 +29,6 @@
       "fecha": "",
       "hora": "",
       "acestream_id": "22b702984a0db43fd371c30e2df150b2336551cd"
-    },
-    {
-      "titulo": "ACB EVENTO 03 720p *",
-      "fecha": "",
-      "hora": "",
-      "acestream_id": "119087e842ea8857124b9405b10bb6cfffd2900c"
     },
     {
       "titulo": "ACB EVENTO 03 **",
@@ -79,6 +73,12 @@
       "acestream_id": "f5908690485ae2facecf3074446ba4315f07a193"
     },
     {
+      "titulo": "DAZN F1 720p **",
+      "fecha": "",
+      "hora": "",
+      "acestream_id": "ed6188dcbb491efeb2092c1a6199226c27f61727"
+    },
+    {
       "titulo": "LaLiga TV Hypermotion 720p **",
       "fecha": "",
       "hora": "",
@@ -101,18 +101,6 @@
       "fecha": "",
       "hora": "",
       "acestream_id": "a5b9d834ad92bfb80fe01bf89cc20bd68be199fb"
-    },
-    {
-      "titulo": "DAZN LaLiga 720p *",
-      "fecha": "",
-      "hora": "",
-      "acestream_id": "eb4975702ceadca7ed74f8707e17a9f55569dbb9"
-    },
-    {
-      "titulo": "DAZN LaLiga 720p **",
-      "fecha": "",
-      "hora": "",
-      "acestream_id": "4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
     },
     {
       "titulo": "DAZN LaLiga 2 720p *",
@@ -271,6 +259,18 @@
       "acestream_id": "abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a"
     },
     {
+      "titulo": "M+ Golf 1080p **",
+      "fecha": "",
+      "hora": "",
+      "acestream_id": "8121478d3d3e563ad6b98018bc1c0aeb2f6166eb"
+    },
+    {
+      "titulo": "M+ Golf 2 1080p **",
+      "fecha": "",
+      "hora": "",
+      "acestream_id": "882074140fca664e119a43294afa2fb4a64917ef"
+    },
+    {
       "titulo": "M+ Vamos 720p **",
       "fecha": "",
       "hora": "",
@@ -295,22 +295,10 @@
       "acestream_id": "f51674b1dd1ab5a668fa97a0f13a490632f0d7ca"
     },
     {
-      "titulo": "M+ VAMOS 2 720p **",
-      "fecha": "",
-      "hora": "",
-      "acestream_id": "4ee16a7f854219fa2974ef1468e6b2f8574189dd"
-    },
-    {
       "titulo": "M+ VAMOS 2 1080p *",
       "fecha": "",
       "hora": "",
       "acestream_id": "5e310dbffed8c941d20ad819cb8ef43c34b07884"
-    },
-    {
-      "titulo": "M+ VAMOS 2 1080p **",
-      "fecha": "",
-      "hora": "",
-      "acestream_id": "0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c"
     },
     {
       "titulo": "M+ VAMOS 3 720p **",
@@ -361,5 +349,5 @@
       "acestream_id": "3b50a1dca0977e3761d016edd79314ab797f74f6"
     }
   ],
-  "total": 60
+  "total": 58
 }
