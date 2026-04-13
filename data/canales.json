@@ -584,6 +584,12 @@
         },
         {
           "nombre": "DAZN LA LIGA 1 --> ELCANO",
+          "acestream_id": "eb4975702ceadca7ed74f8707e17a9f55569dbb9",
+          "short_id": "eb49",
+          "fuente": "ELCANO"
+        },
+        {
+          "nombre": "DAZN LA LIGA 1 --> ELCANO",
           "acestream_id": "4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
           "short_id": "4e6d",
           "fuente": "ELCANO"
@@ -650,14 +656,14 @@
         },
         {
           "nombre": "M+ LALIGA --> ELCANO",
-          "acestream_id": "4b528d10eaad747ddf52251206177573ee3e9f74",
-          "short_id": "4b52",
+          "acestream_id": "00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+          "short_id": "00c9",
           "fuente": "ELCANO"
         },
         {
           "nombre": "M+ LALIGA --> ELCANO",
-          "acestream_id": "00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-          "short_id": "00c9",
+          "acestream_id": "4b528d10eaad747ddf52251206177573ee3e9f74",
+          "short_id": "4b52",
           "fuente": "ELCANO"
         },
         {
@@ -733,12 +739,6 @@
         },
         {
           "nombre": "LIGA DE CAMPEONES --> ELCANO",
-          "acestream_id": "9db029dff6a9c637d1f670e78dbc1a479b9b406e",
-          "short_id": "9db0",
-          "fuente": "ELCANO"
-        },
-        {
-          "nombre": "LIGA DE CAMPEONES --> ELCANO",
           "acestream_id": "2b51710cee513e8939785fa3e7980f32d4e0415f",
           "short_id": "2b51",
           "fuente": "ELCANO"
@@ -747,6 +747,12 @@
           "nombre": "LIGA DE CAMPEONES --> ELCANO",
           "acestream_id": "97df5b7824948972d041d8ca2a4d29c90b641bc9",
           "short_id": "97df",
+          "fuente": "ELCANO"
+        },
+        {
+          "nombre": "LIGA DE CAMPEONES --> ELCANO",
+          "acestream_id": "9db029dff6a9c637d1f670e78dbc1a479b9b406e",
+          "short_id": "9db0",
           "fuente": "ELCANO"
         },
         {
@@ -1590,14 +1596,14 @@
       "canales": [
         {
           "nombre": "ACB EVENTO 01 ** --> ELCANO",
-          "acestream_id": "0995b9b77ac6198dd92141369707fb99da09bdb2",
-          "short_id": "0995",
+          "acestream_id": "53962d7fb865aff73b34a3afb2905cd492f60d75",
+          "short_id": "5396",
           "fuente": "ELCANO"
         },
         {
           "nombre": "ACB EVENTO 01 ** --> ELCANO",
-          "acestream_id": "53962d7fb865aff73b34a3afb2905cd492f60d75",
-          "short_id": "5396",
+          "acestream_id": "0995b9b77ac6198dd92141369707fb99da09bdb2",
+          "short_id": "0995",
           "fuente": "ELCANO"
         },
         {
